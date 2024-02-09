@@ -15,5 +15,5 @@ git clone git@github.com:gregalexan/To-Do-List.git
 ```
 2. Inside `To-Do-List`:
 ```sh
-python to-do-list.py
+python toDoList.py
 ```

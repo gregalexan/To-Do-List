@@ -1,4 +1,4 @@
-# to-do-list
+# To-Do-List
 ## Exercise from Coursera: Create Your First Python Program From UST
 
 ### Tools used
@@ -11,9 +11,9 @@
 ### Running
 1. Clone the repository:
 ```sh
-git clone git@github.com:gregalexan/to-do-list.git
+git clone git@github.com:gregalexan/To-Do-List.git
 ```
-2. Inside `to-do-list`:
+2. Inside `To-Do-List`:
 ```sh
-python to-do-list.py
+python To-Do-List.py
 ```

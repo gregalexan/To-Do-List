@@ -1,6 +1,6 @@
 # To-Do-List
 ## Exercise from Coursera: Create Your First Python Program From UST
-
+This is a simple python command line project for a to-do list. You can Add items, Mark as Done, View the List.
 ### Tools used
 * Lists
 * Functions
